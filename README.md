@@ -1,5 +1,5 @@
 # Weathy User Interface
-
+![Weathy User Interface](./readme_images/Group%206.png)
 Our goal is to develop a user-centric weather application, prioritizing simplicity and ease of use. We aim to amalgamate accurate weather data with an intuitive design to offer precise forecasts while enhancing user engagement. This application empowers individuals to plan confidently and make informed decisions based on reliable weather updates.
 
 ## Project Overview
@@ -21,6 +21,7 @@ Observing my grandmother’s struggles inspired me to simplify smartphone usage.
 ### Application Flow
 
 Included a simple data flow diagram showcasing the application's functionality.
+![Data Flow Diagram](./readme_images/Blank%20diagram.png)
 
 ### Technologies Used
 
